@@ -18,7 +18,8 @@ I'm a full-stack software engineer who's been breathing web development since 20
 
 ### Find me elsewhere :globe_with_meridians:
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hristiyan-stefanov-480721219)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hristiyan-stefanov-480721219)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100000593535360)
 [![](https://img.shields.io/badge/Email-hristiyan.stefanov@outlook.com-36725a?style=for-the-badge)](mailto:hristiyan.stefanov@outlook.com)
 
 <hr/>
