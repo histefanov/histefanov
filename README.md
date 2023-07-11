@@ -1,9 +1,3 @@
-### Hey, I'm Hristiyan Stefanov! :nerd_face:
-
-I'm a full-stack software engineer who's been breathing web development since 2020. :v:
-
-> *Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.* - Brian W. Kernighan
-
 ### My favourite languages and tools :hammer_and_wrench:
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" /></code>
